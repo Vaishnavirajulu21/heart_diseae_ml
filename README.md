@@ -1,4 +1,4 @@
-# title: "❤️ Heart Disease Prediction App"
+# title: "🫀 Heart Disease Prediction App"
 
 # badges:
   - "![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)"
