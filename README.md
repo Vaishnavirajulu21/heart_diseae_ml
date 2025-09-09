@@ -17,7 +17,7 @@
   It predicts whether a person has heart disease based on medical input parameters.
   
 
-# project_structure: |
+## project_structure: |
   heart_diseae_ml/
   ├── app.py             # Flask app
   ├── model.pkl          # Trained ML model
