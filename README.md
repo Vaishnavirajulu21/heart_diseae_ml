@@ -17,15 +17,15 @@
   It predicts whether a person has heart disease based on medical input parameters.
   
 
-## project_structure: |
-  heart_diseae_ml/
-  ├── app.py             # Flask app
-  ├── model.pkl          # Trained ML model
-  ├── requirements.txt   # Dependencies
-  ├── Procfile           # Deployment process
-  ├── README.md          # Project documentation
-  ├── templates/         # HTML files
-  └── static/            # CSS/JS files
+# project_structure: |
+  - heart_diseae_ml/
+  - ├── app.py             # Flask app
+  - ├── model.pkl          # Trained ML model
+  - ├── requirements.txt   # Dependencies
+  - ├── Procfile           # Deployment process
+  - ├── README.md          # Project documentation
+  - ├── templates/         # HTML files
+  - └── static/            # CSS/JS files
 
   ---
 
