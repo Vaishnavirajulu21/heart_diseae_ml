@@ -19,14 +19,14 @@
 
 # project_structure: |
   heart_diseae_ml/
-  -│── app.py                # Flask app
-  -│── model.pkl             # Trained ML model
-  -│── requirements.txt      # Dependencies
-  -│── Procfile              # Deployment process
-  -│── README.md             # Project documentation
-  -│── templates/            # HTML files
-  -│── static/               # CSS/JS files
-  
+  ├── app.py             # Flask app
+  ├── model.pkl          # Trained ML model
+  ├── requirements.txt   # Dependencies
+  ├── Procfile           # Deployment process
+  ├── README.md          # Project documentation
+  ├── templates/         # HTML files
+  └── static/            # CSS/JS files
+
   ---
 
 # tech_stack:
